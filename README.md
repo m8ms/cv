@@ -1,5 +1,18 @@
 ##### Senior Front-end Developer / Team Leader
 
+## Skills
+
+`#react` `#next` `#redux` `#webpack` `#babel` `#graphQL` `#apollo` `#enzyme` `#emotion` `#styled-components`
+`#vanillajs` `#SASS` `#LESS` `#BEM` `#typescript` 
+
+`#git` `#mercurial` `#svn` `#gitlab-ci` `#docker`
+
+`#express` `#php` `#cake-php` `#mysql` `#postgresql` `#contentful`
+
+`#architecture` `#management`
+
+`#macOS` `#windows` `#linux`
+
 ## Education
    
 * **2005 – 2011** MS Computer Science: Graphics and Networking at _Jagiellonian University, Krakow_
