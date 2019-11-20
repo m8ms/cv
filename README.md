@@ -9,15 +9,15 @@
 
 `#express` `#php` `#cake-php` `#mysql` `#postgresql` `#contentful`
 
-`#architecture` `#management`
+`#architecture` `#management` `#itil-foundation` `#kanban` `#scrum`
 
 `#macOS` `#windows` `#linux`
 
-## Education
+### Education
    
 * **2005 – 2011** MS Computer Science: Graphics and Networking at _Jagiellonian University, Krakow_
     
-## Experience
+### Experience
   
 * **09.2019 – present**: front-end team leader at **Grupa WP**, Warsaw
 
@@ -48,3 +48,6 @@
     ⚒ `azavista.com`, patients-registration app for De Regenboog group
      
     🍽 JS, jQuery, jQuery UI, CSS, SASS, PHP, svn, CakePHP, full stack programming, application architecture    
+
+### Awards
+* **2015**: BIHAPI grand prix: mobile app `CoSieStao` – graphic design
