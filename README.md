@@ -2,7 +2,7 @@
 
 #### Senior Front-end Developer / Team Leader
 
-☎️ + 48 513 778 464
+☎️ + 48 513 778 464  🐱 github.com/m8ms
 
 ## Skills
 
