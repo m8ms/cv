@@ -1,4 +1,6 @@
-##### Senior Front-end Developer / Team Leader
+# Piotr Martyniak
+
+#### Senior Front-end Developer / Team Leader
 
 ☎️ + 48 513 778 464
 
