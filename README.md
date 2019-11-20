@@ -1,5 +1,7 @@
 ##### Senior Front-end Developer / Team Leader
 
+☎️ + 48 513 778 464
+
 ## Skills
 
 `#react` `#next` `#redux` `#webpack` `#babel` `#graphQL` `#apollo` `#enzyme` `#emotion` `#styled-components`
@@ -9,15 +11,15 @@
 
 `#express` `#php` `#cake-php` `#mysql` `#postgresql` `#contentful`
 
-`#architecture` `#management` `#itil-foundation` `#kanban` `#scrum`
+`#architecture` `#management` `#itil4-foundation` `#kanban` `#scrum`
 
 `#macOS` `#windows` `#linux`
 
-### Education
+## Education
    
 * **2005 – 2011** MS Computer Science: Graphics and Networking at _Jagiellonian University, Krakow_
     
-### Experience
+## Experience
   
 * **09.2019 – present**: front-end team leader at **Grupa WP**, Warsaw
 
@@ -49,5 +51,13 @@
      
     🍽 JS, jQuery, jQuery UI, CSS, SASS, PHP, svn, CakePHP, full stack programming, application architecture    
 
-### Awards
+## Awards
 * **2015**: BIHAPI grand prix: mobile app `CoSieStao` – graphic design
+
+## Other
+* English - fluent (CAE 2003)
+* Polish - native
+* ITIL4 foundation Certificate (2019)
+
+## When not coding...
+🏍 ‍‍🎤 🎧 🎹 🎸 🏊 🏐 ⛰ 🏝
