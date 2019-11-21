@@ -57,6 +57,8 @@
 * **2015**: BIHAPI grand prix: mobile app `CoSieStao` – graphic design
 
 ## Other
+* Writing: https://blog.daftcode.pl/going-international-at-the-front-end-13983cee429d
+* Lecturing: Daftacademy 2019 level-up - front-end
 * English - fluent (CAE 2003)
 * Polish - native
 * ITIL4 foundation Certificate (2019)
