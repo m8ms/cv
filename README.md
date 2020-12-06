@@ -23,7 +23,7 @@
     
 ## Experience
   
-* **01.2020 – present**: senior front-end developer at **Vodeno**, Warsaw
+* **01.2020 – present**: senior front-end developer at [**Vodeno**](https://www.vodeno.com/), Warsaw
 
     ⚒ `AION` app
     
