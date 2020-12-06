@@ -11,7 +11,7 @@
 
 `#git` `#mercurial` `#svn` `#gitlab-ci` `#docker`
 
-`#express` `#php` `#cake-php` `#mysql` `#postgresql` `#contentful`
+`#express` `#php` `#cake-php` `#mysql` `#postgresql` `#contentful` `googlecloud`
 
 `#architecture` `#management` `#itil4-foundation` `#kanban` `#scrum`
 
@@ -23,7 +23,13 @@
     
 ## Experience
   
-* **09.2019 – present**: front-end team leader at **Grupa WP**, Warsaw
+* **01.2020 – present**: senior front-end developer at **Vodeno**, Warsaw
+
+    ⚒ `AION` app
+    
+    🍽 coding & frontend architecture, managing small team, web-view, mobile-first, React, TypeScript, gitlab-ci, Google Cloud, k8s
+  
+* **09.2019 – 12.2019**: front-end team leader at **Grupa WP**, Warsaw
 
     ⚒ `o2.pl`, `wp.pl`
     
