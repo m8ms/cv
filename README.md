@@ -35,7 +35,7 @@
     
     🍽 managing team, scrum master, dev-ops, some coding, Docker, gitlab, gitlab-ci, TypeScript 
   
-* **06.2018 – 08.2019**: senior front-end developer at (**Daftcode**)[https://daftcode.pl/], Warsaw 
+* **06.2018 – 08.2019**: senior front-end developer at [**Daftcode**](https://daftcode.pl/), Warsaw 
 
     ⚒ `flode.daftcode.pl`, [`restaurantweek.pl`](https://restaurantweek.pl/), [`daftshot.pl`](https://daftshot.pl/), [`cateringoo.pl`](https://cateringoo.pl/), [`daftacademy.pl`](https://daftacademy.pl/)
     
