@@ -27,37 +27,37 @@
 
     ⚒ [`AION bank` app](https://play.google.com/store/apps/details?id=be.aion.android.app&hl=en&gl=US)
     
-    🍽 coding & frontend architecture, managing small team, web-view, mobile-first, React, TypeScript, gitlab-ci, Google Cloud, k8s
+    🍽  coding & frontend architecture, managing small team, web-view, mobile-first, React, TypeScript, gitlab-ci, Google Cloud, k8s
   
 * **09.2019 – 12.2019**: front-end team leader at [**Grupa WP**](https://holding.wp.pl/en), Warsaw
 
     ⚒ [`o2.pl`](https://www.o2.pl/), [`wp.pl`](https://www.wp.pl/)
     
-    🍽 managing team, scrum master, dev-ops, some coding, Docker, gitlab, gitlab-ci, TypeScript 
+    🍽  managing team, scrum master, dev-ops, some coding, Docker, gitlab, gitlab-ci, TypeScript 
   
 * **06.2018 – 08.2019**: senior front-end developer at [**Daftcode**](https://daftcode.pl/), Warsaw 
 
     ⚒ `flode.daftcode.pl`, [`restaurantweek.pl`](https://restaurantweek.pl/), [`daftshot.pl`](https://daftshot.pl/), [`cateringoo.pl`](https://cateringoo.pl/), [`daftacademy.pl`](https://daftacademy.pl/)
     
-    🍽 next, react, redux, apollo, jest, enzyme, graphQL, json-api, express, plop, emotion, hooks, SASS (BEM), webpack, git, gitlab, gitlab-ci, Docker, front-end architecture, optimisation
+    🍽  next, react, redux, apollo, jest, enzyme, graphQL, json-api, express, plop, emotion, hooks, SASS (BEM), webpack, git, gitlab, gitlab-ci, Docker, front-end architecture, optimisation
 
 * **09.2015 – 05.2018**: front-end developer at [**Filmweb**](https://www.filmweb.pl/), Warsaw 
 
     ⚒ [`filmweb.pl`](https://www.filmweb.pl/)
 
-    🍽 LESS, HTML5, vanilla JavasScript, jQuery, webpack, es6, babel, svn, tailor-made front-end framework architecture & coding
+    🍽  LESS, HTML5, vanilla JavasScript, jQuery, webpack, es6, babel, svn, tailor-made front-end framework architecture & coding
  
 * **10.2011 – 08.2015**: software engineer, gui designer at [**NASK**](https://en.nask.pl/), Warsaw 
 
     ⚒ [`academica.edu.pl`](https://academica.edu.pl/), `passim.pl`, ARCHE (`cbj.edu.pl`), internal apps
     
-    🍽 PHP, JS, jQuery, jQuery UI, SASS, java, jsp, spring, mercurial, mySQL, postresql, ux/visual design, client relations, front-end architecture
+    🍽  PHP, JS, jQuery, jQuery UI, SASS, java, jsp, spring, mercurial, mySQL, postresql, ux/visual design, client relations, front-end architecture
 
 * **06.2010 – 05.2011**: php programmer at **Toltech BV**, Amsterdam 
 
     ⚒ [`azavista.com`](https://azavista.com/), patients-registration app for De Regenboog group
      
-    🍽 JS, jQuery, jQuery UI, CSS, SASS, PHP, svn, CakePHP, full stack programming, application architecture    
+    🍽  JS, jQuery, jQuery UI, CSS, SASS, PHP, svn, CakePHP, full stack programming, application architecture    
 
 ## Awards
 * **2015**: BIHAPI grand prix: mobile app `CoSieStao` – graphic design
