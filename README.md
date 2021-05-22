@@ -25,7 +25,7 @@
   
 * **01.2020 – present**: senior front-end developer at [**Vodeno**](https://www.vodeno.com/), Warsaw
 
-    ⚒ [`AION bank` app](https://play.google.com/store/apps/details?id=be.aion.android.app&hl=en&gl=US)
+    ⚒ [`AION bank` app](https://play.google.com/store/apps/details?id=be.aion.android.app&hl=en&gl=US), whitelabel banking solution "Vodeno Cloud Platform" (Bank as a Service)
     
     🍽  coding & frontend architecture, managing small team, web-view, mobile-first, React, TypeScript, microfrontends, gitlab-ci, Google Cloud, k8s
   
