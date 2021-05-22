@@ -27,7 +27,7 @@
 
     ⚒ [`AION bank` app](https://play.google.com/store/apps/details?id=be.aion.android.app&hl=en&gl=US)
     
-    🍽  coding & frontend architecture, managing small team, web-view, mobile-first, React, TypeScript, gitlab-ci, Google Cloud, k8s
+    🍽  coding & frontend architecture, managing small team, web-view, mobile-first, React, TypeScript, microfrontends, gitlab-ci, Google Cloud, k8s
   
 * **09.2019 – 12.2019**: front-end team leader at [**Grupa WP**](https://holding.wp.pl/en), Warsaw
 
