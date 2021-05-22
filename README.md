@@ -3,6 +3,7 @@
 #### Senior Front-end Developer / Team Leader
 
 ☎️ + 48 513 778 464  🐱 github.com/m8ms 📘 [LinkedIn](https://www.linkedin.com/in/piotr-martyniak-aa286223/)
+🎓 https://github.com/m8ms/cv
 
 ## Skills
 
