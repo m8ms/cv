@@ -29,7 +29,7 @@
 
     ⚒ [`hx Renew`](https://www.hyperexponential.com/pricing-and-rating), pricing intelligence tools for specialty insurance
     
-    🍽  coding & frontend architecture + orchestration, managing teams, leading frontend initiatives, designing & implementing the design system, React, AWS, Claude Code
+    🍽  coding & frontend architecture + orchestration, designing & implementing the design system, React, AWS, Claude Code, managing teams, leading frontend initiatives, stakeholder management
   
 * **01.2020 – 03.2022**: senior front-end developer at [**Vodeno**](https://www.vodeno.com/), Warsaw
 
