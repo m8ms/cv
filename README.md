@@ -7,14 +7,14 @@
 
 ## Skills
 
-`#react` `#next` `#redux` `#webpack` `#babel` `#graphQL` `#apollo` `#enzyme` `#emotion` `#styled-components`
-`#vanillajs` `#SASS` `#LESS` `#BEM` `#typescript` 
+`#react` `#redux` `#vitejs` `#testing-library` `#vitest` `#tailwind` `#styled-components`
+`#vanillajs` `#SASS` `#LESS` `#BEM` `#typescript` `#claudecode` `#next`
 
 `#git` `#mercurial` `#svn` `#gitlab-ci` `#docker`
 
-`#express` `#php` `#cake-php` `#mysql` `#postgresql` `#contentful` `googlecloud`
+`#express` `#php` `#cake-php` `#mysql` `#postgresql` `#deno` 
 
-`#architecture` `#management` `#itil4-foundation` `#kanban` `#scrum`
+`#architecture` `#management` `#itil4-foundation` `#kanban` `#scrum` `#designsystems`
 
 `#macOS` `#windows` `#linux`
 
@@ -23,8 +23,15 @@
 * **2005 – 2011** MS Computer Science: Graphics and Networking at _Jagiellonian University, Krakow_
     
 ## Experience
+
   
-* **01.2020 – present**: senior front-end developer at [**Vodeno**](https://www.vodeno.com/), Warsaw
+* **04.2020 – present**: senior front-end developer / acting EM / FE Tech Lead at [**Hyperexponential**](https://www.hyperexponential.com/), Warsaw
+
+    ⚒ [`hx Renew`](https://www.hyperexponential.com/pricing-and-rating), pricing intelligence tools for specialty insurance
+    
+    🍽  coding & frontend architecture + orchestration, managing teams, leading frontend initiatives, designing & implementing the design system, React, AWS, Claude Code
+  
+* **01.2020 – 03.2022**: senior front-end developer at [**Vodeno**](https://www.vodeno.com/), Warsaw
 
     ⚒ [`AION bank` app](https://play.google.com/store/apps/details?id=be.aion.android.app&hl=en&gl=US), whitelabel banking solution "Vodeno Cloud Platform" (Bank as a Service)
     
